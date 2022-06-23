@@ -1,0 +1,1 @@
+npm install --save @fullcalendar/vue3 @fullcalendar/core @fullcalendar/interaction @fullcalendar/timegrid moment
