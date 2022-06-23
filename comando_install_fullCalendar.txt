@@ -1,1 +1,6 @@
 npm install --save @fullcalendar/vue3 @fullcalendar/core @fullcalendar/interaction @fullcalendar/timegrid moment
+
+
+################################################################################33
+Parei aqui na aula 10,
+https://www.youtube.com/watch?v=tA7e-tybvvo&list=PLTEsYmp2nFrrcEHYGsRYuRIzbZ2L4zzsm&index=9
